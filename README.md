@@ -27,12 +27,12 @@ Este projeto em Python realiza a leitura de um arquivo CSV, armazena os dados em
 
 Este projeto pode ser usado no dia a dia da Sogamax para:
 
-    Importar relatórios brutos exportados de sistemas diversos
+- Importar relatórios brutos exportados de sistemas diversos
 
-    Filtrar apenas os dados relevantes (ex: cliente, bairro, serviço, valor, status, data)
+- Filtrar apenas os dados relevantes (ex: cliente, bairro, serviço, valor, status, data)
 
-    Padronizar planilhas para análises, envio por e-mail ou arquivamento
+- Padronizar planilhas para análises, envio por e-mail ou arquivamento
 
-    Automatizar tarefas repetitivas de organização de dados que antes eram feitas manualmente
+- Automatizar tarefas repetitivas de organização de dados que antes eram feitas manualmente
 
 Pode ser aplicado por equipes administrativas, comerciais ou de suporte, sempre que houver necessidade de limpar, organizar e reaproveitar planilhas em processos internos.
