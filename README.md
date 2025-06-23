@@ -23,9 +23,9 @@ Este projeto em Python realiza a leitura de um arquivo CSV, armazena os dados em
 
 ---
 
-## 🏢 Aplicação prática na Sogamax
+## 🏢 Aplicação prática
 
-Este projeto pode ser usado no dia a dia da Sogamax para:
+Este projeto pode ser usado no dia a dia para:
 
 - Importar relatórios brutos exportados de sistemas diversos
 
