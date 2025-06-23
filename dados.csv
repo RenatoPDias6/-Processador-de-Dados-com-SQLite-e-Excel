@@ -1,0 +1,14 @@
+ID_Registro,NomeCliente,BAIRRO,TipoServico,Valor,Status,DataContratacao,Observacao,OutraInfoAleatoria
+1001,João Silva,Centro,Internet,89.90,Ativo,2023-01-15,Plano Básico,XWZ123
+1002,Maria Souza,pelinca,TV a Cabo,120.50,Ativo,2023-02-20,,ABC456
+1003,Pedro Lima,Parque Tamandaré,Telefone,55.00,Inativo,2022-11-01,Contrato encerrado,DEF789
+1004,Ana Paula,GUARUS,Internet,99.90,Ativo,2024-03-10,Cliente novo,GHI012
+1005,Carlos Dantas,Jockey Club,TV a Cabo,,Ativo,2023-05-05,Pagamento pendente,JKL345
+1006,Fernanda C,PARQUE SANTO AMARO,Telefone,60.00,Ativo,2024-01-01,,MNO678
+1007,Gustavo P,Centro,Internet,89.90,Ativo,2023-08-12,Upgrade futuro,PQR901
+1008,Larissa M,PELINCA,Telefone,45.00,Ativo,2023-09-30,Desconto aplicado,STU234
+1009,Roberto C,Parque Califórnia,Internet,105.00,Pendente,2024-02-25,Aguardando instalação,VWX567
+1010,Sonia A,Bairro Nao Existe,TV a Cabo,130.00,Ativo,2023-07-18,Cliente antigo,YZA890
+1011,Diego F,Guarus,Telefone,50.00,Ativo,2024-04-01,Promoção,BCD123
+1012,Patrícia R,Jockey club,Internet,90.00,Ativo,2023-06-11,,EFG456
+1013,Mauro S,Centro,TV a Cabo,115.00,Ativo,2022-10-01,Renovação,HIJ789
