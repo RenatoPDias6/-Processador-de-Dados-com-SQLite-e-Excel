@@ -24,6 +24,7 @@ FROM
     tabela_dados_originais
 """
 
+
 resultado_df = pd.read_sql(consulta_sql, conn)
 
 resultado_df.to_excel("dados_processados_sqlite.xlsx", index=False)
